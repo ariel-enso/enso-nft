@@ -1,0 +1,16 @@
+{
+  "name": "Enso Key #2",
+  "image": "https://raw.githubusercontent.com/ariel-enso/enso-nft/master/key_2.png",
+  "attributes": [
+    {
+      "value": "Collection (Hosts, Servers, Endpoints, Repositories, Developers)",
+      "trait_type": "Monthly"
+    },
+    {
+      "value": "Scan (SAST,DAST,SCA)",
+      "trait_type": "Monthly"
+    }
+  ],
+  "description": "Enso token allows 1 monthly full system appSec view (Assets collections, SAST/DAST/SCA scan & Scoring)",
+  "external_url": "https://enso.security"
+}

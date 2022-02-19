@@ -1,0 +1,16 @@
+{
+  "name": "Enso Shield #0",
+  "image": "https://raw.githubusercontent.com/ariel-enso/enso-nft/master/shield_0.png",
+  "attributes": [
+    {
+      "value": "Collection (Hosts, Servers, Endpoints, Repositories, Developers)",
+      "trait_type": "Monthly"
+    },
+    {
+      "value": "Scan (SAST,DAST,SCA)",
+      "trait_type": "Monthly"
+    }
+  ],
+  "description": "Enso token allows 1 monthly full system appSec view (Assets collections, SAST/DAST/SCA scan & Scoring)",
+  "external_url": "https://enso.security"
+}

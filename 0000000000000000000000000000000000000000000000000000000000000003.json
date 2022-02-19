@@ -1,0 +1,16 @@
+{
+  "name": "Enso Coin #3",
+  "image": "https://raw.githubusercontent.com/ariel-enso/enso-nft/master/coin_3.png",
+  "attributes": [
+    {
+      "value": "Collection (Hosts, Servers, Endpoints, Repositories, Developers)",
+      "trait_type": "Daily"
+    },
+    {
+      "value": "Scan (SAST,DAST,SCA)",
+      "trait_type": "Daily"
+    }
+  ],
+  "description": "Enso token allows daily system appSec view (Assets collections, SAST/DAST/SCA scan & Scoring)",
+  "external_url": "https://enso.security"
+}
